@@ -8,4 +8,4 @@
 Update: Weekly Twice
 
 # Power BI Dashboards 2023
-1) Own Projects: 
+1) Own Projects: Development in progress
