@@ -6,7 +6,7 @@
 1) Jobs in Europe: https://public.tableau.com/views/EU-Jobs-2023/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 
 Update: Weekly Twice
-Last Updated: 12.12.2023
+Last Updated: 13.12.2023
 
 # Power BI Dashboards 2023
 1) Own Projects: Development in progress
