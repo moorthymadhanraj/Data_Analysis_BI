@@ -1,4 +1,4 @@
-# Professional Developements
+# Professional Developments
 
 # Data_Analysis
 
