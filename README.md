@@ -17,3 +17,6 @@ Last Updated: 19.12.2023
 3) Extract, Transform and Load Data in Power BI
 4) Data Modeling in Power BI
 5) Data Analysis and Visualization with Power BI
+
+
+![C-1](https://github.com/moorthymadhanraj/Data_Analysis_Business_Intelligence/assets/51472231/f47ed324-010a-48fd-966a-039d31ce64d6)
