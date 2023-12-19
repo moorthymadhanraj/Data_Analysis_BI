@@ -10,3 +10,10 @@ Last Updated: 19.12.2023
 
 # Power BI Dashboards 2023
 1) Own Projects: Development in progress
+
+# Certifications
+1) Preparing Data for Analysis with Microsoft Excel
+2) Harnessing the Power of Data with Power BI
+3) Extract, Transform and Load Data in Power BI
+4) Data Modeling in Power BI
+5) Data Analysis and Visualization with Power BI
