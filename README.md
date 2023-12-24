@@ -17,6 +17,8 @@
 3) Extract, Transform and Load Data in Power BI
 4) Data Modeling in Power BI
 5) Data Analysis and Visualization with Power BI
+6) Creative Designing in Power BI
+7) 
 
 ![C-1](https://github.com/moorthymadhanraj/Data_Analysis_Business_Intelligence/assets/51472231/f47ed324-010a-48fd-966a-039d31ce64d6)
 ![C-2](https://github.com/moorthymadhanraj/Data_Analysis_Business_Intelligence/assets/51472231/c14c2cdb-0035-4748-b7d3-55c717b501bc)
