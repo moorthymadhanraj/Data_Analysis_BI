@@ -28,5 +28,5 @@
 ![C-6](https://github.com/moorthymadhanraj/Data_Analysis_BI_AI/assets/51472231/c68b1104-5226-478b-a535-8243eeef7c6a)
 
 # AI
-* Applied AI: In Progress
+* Applied AI: In Progress.
 
