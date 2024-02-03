@@ -6,7 +6,7 @@
 1) Jobs in Europe: https://public.tableau.com/views/EU-Jobs-2023-19-Dec-2023/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 * Update: Daily
-* Last Updated: 02.02.2024
+* Last Updated: 03.02.2024
 
 # Power BI Dashboards
 1) Own Projects: Development in progress
@@ -18,7 +18,7 @@
 4) Data Modeling in Power BI
 5) Data Analysis and Visualization with Power BI
 6) Creative Designing in Power BI
-7) 
+7) Deploy and Maintain Power BI Assets and Capstone project - In Progress
 
 ![C-1](https://github.com/moorthymadhanraj/Data_Analysis_Business_Intelligence/assets/51472231/f47ed324-010a-48fd-966a-039d31ce64d6)
 ![C-2](https://github.com/moorthymadhanraj/Data_Analysis_Business_Intelligence/assets/51472231/c14c2cdb-0035-4748-b7d3-55c717b501bc)
