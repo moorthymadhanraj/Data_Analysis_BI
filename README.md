@@ -26,7 +26,8 @@
 ![C-4](https://github.com/moorthymadhanraj/Data_Analysis_Business_Intelligence/assets/51472231/9255b874-08bf-44f2-a10e-f0645d284c79)
 ![C-5](https://github.com/moorthymadhanraj/Data_Analysis_Business_Intelligence/assets/51472231/c8f1f14b-329d-4e28-8e3b-df2ac938c664)
 ![C-6](https://github.com/moorthymadhanraj/Data_Analysis_BI_AI/assets/51472231/c68b1104-5226-478b-a535-8243eeef7c6a)
-![alt text](C-7-2.jpeg)
+![C-7](https://github.com/moorthymadhanraj/Data_Analysis_BI_AI/assets/51472231/33dd538f-b8f0-43b0-802d-07c087c2d702)
+
 
 # AI
 * Applied AI: In Progress.
